@@ -50,12 +50,12 @@ Graduate Research Assistant at the MAIL Lab, Catholic University of America. Bui
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[J&P AutoHub](#)** | AI sales agent + SEO pipeline for auto parts e-commerce (Delaware). | ![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python)&nbsp;![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat&logo=amazonwebservices) |
+| **[AuraCommerce BI Dashboard](https://github.com/Alan-911/enterprise-agent-framework)** | Enterprise observability UI monitoring live agents, metrics & latency. | ![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react)&nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat&logo=fastapi) |
+| **[Real-Time Task Dashboard](https://github.com/Alan-911/real-time-dashboard)** | Real-time websocket tracking platform pushing instant state via Supabase. | ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=next.js)&nbsp;![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat&logo=supabase) |
+| **[J&P AutoHub](https://github.com/Alan-911/JP-autohub-project)** | AI sales agent + SEO pipeline for auto parts e-commerce (Delaware). | ![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python)&nbsp;![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat&logo=amazonwebservices) |
 | **[EECS Automated Research Nexus](#)** | Auto research milestone detector + Gemini AI blog gen with faculty review routing. | ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat&logo=langchain)&nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat&logo=fastapi) |
-| **[Rhode Island DMV Simulator](#)** | Standalone browser-based DMV exam simulation tool. | ![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react)&nbsp;![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=node.js) |
-| **[Print Pal](#)** | WordPress chatbot plugin with a cartoon avatar (Arkansas Graphics Inc). | ![PHP](https://img.shields.io/badge/WordPress-0D1117?style=flat&logo=wordpress)&nbsp;![Python](https://img.shields.io/badge/OpenAI-0D1117?style=flat&logo=openai) |
-| **[CompSpoof Detection](#)** | Academic module utilizing ML to detect synthetic/spoofed speech. | ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat&logo=pytorch)&nbsp;![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python) |
-| **[Portfolio Site](https://Alan-911.github.io/my-portfolio)** | My personal developer portfolio highlighting my AI/ML engineering journey. | ![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react)&nbsp;![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat&logo=css3) |
+| **[Audio Deepfake Detection](https://github.com/Alan-911/Audio-Deepfake-Detection)** | Academic neural architecture isolating spoofed synthetic voice artifacts. | ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat&logo=pytorch)&nbsp;![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python) |
+| **[Portfolio Site](https://Alan-911.github.io/my-portfolio)** | My personal developer portfolio highlighting my AI/ML engineering journey. | ![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react)&nbsp;![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat&logo=tailwind-css) |
 
 ---
 
