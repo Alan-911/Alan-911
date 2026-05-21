@@ -1,7 +1,7 @@
-# Hi, I'm Yves Alain Iragena 👋
+# Hi, I'm Yves Alain Iragena 
 
 **Graduate Researcher & AI/ML Engineer** — Multimodal AI Lab, Catholic University of America  
-MS Data Analytics (May 2026) · Washington D.C. · F-1 CPT Eligible
+MS Data Analytics (May 2026) · Washington D.C. 
 
 ---
 
