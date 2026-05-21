@@ -1,63 +1,42 @@
-<div align="center">
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Yves%20Alain%20Iragena&fontSize=50&fontColor=ffffff&desc=AI/ML%20Engineer%20%C2%B7%20Graduate%20Researcher%20@%20CUA%20%C2%B7%20Builder&descSize=20&descAlignY=70&descAlign=50" alt="Yves Alain Iragena Banner" width="100%" />
-</div>
+# Hi, I'm Yves Alain Iragena 👋
 
-<div align="center">
-
-  <!-- Social Badges Row -->
-  <a href="https://www.linkedin.com/in/yves-alain-iragena-91b44b391">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://Alan-911.github.io/my-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:iragena@cua.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Alan-911">
-    <img src="https://img.shields.io/github/followers/Alan-911?style=for-the-badge&logo=github&color=2ea043" alt="GitHub Followers" />
-  </a>
-
-</div>
+**Graduate Researcher & AI/ML Engineer** — Multimodal AI Lab, Catholic University of America  
+MS Data Analytics (May 2026) · Washington D.C. · F-1 CPT Eligible
 
 ---
 
-Graduate Research Assistant at the MAIL Lab, Catholic University of America. Building production AI systems across research, e-commerce, and automation.
+### What I'm Working On
+
+- **DPADD-ES** — Audio deepfake detection via mask-based speech/environment disentanglement. Submitted to **ICME 2026 Grand Challenge (ESDD2)**. Achieved 0.8923 macro-F1 on CompSpoofV2 (250K clips).
+- **Adversarial RAG Security** — Three-layer injection defense stack across Pinecone, FAISS, and Chroma vector databases.
+- **Production agentic systems** — LangGraph-based multi-agent frameworks with Kubernetes deployment.
 
 ---
 
-### 💻 What I build with
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,postgres,react,nodejs,git,linux,vscode" alt="My Skills" />
-  </a>
-</div>
+### Featured Projects
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [Audio-Deepfake-Detection](https://github.com/Alan-911/Audio-Deepfake-Detection) | ICME 2026 deepfake audio detection · 0.89 F1 | PyTorch · Wav2Vec2 · BiLSTM |
+| [enterprise-agent-framework](https://github.com/Alan-911/enterprise-agent-framework) | Production multi-agent orchestration | LangGraph · FastAPI · K8s |
+| [gmail-ai-agent](https://github.com/Alan-911/gmail-ai-agent) | Semantic email autopilot · 98% accuracy | Claude API · MCP · React |
+| [real-time-dashboard](https://github.com/Alan-911/real-time-dashboard) | Live analytics · sub-50ms latency | Next.js · WebSockets · Docker |
+| [JP-autohub-project](https://github.com/Alan-911/JP-autohub-project) | E-commerce SEO automation pipeline | LangChain · AWS · PostgreSQL |
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan-911&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-911&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Alan-911&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+### Skills
+
+**ML/Research:** PyTorch · Wav2Vec2 · BiLSTM · Attention · Scikit-learn  
+**AI Engineering:** LangGraph · LangChain · MCP · RAG · Vector DBs · Claude API  
+**Backend:** Python · FastAPI · Node.js · PostgreSQL  
+**Frontend:** React · Next.js · TypeScript  
+**Infrastructure:** Docker · Kubernetes · AWS · GitHub Actions
 
 ---
 
-### 🚀 What I've shipped
+### Connect
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[AuraCommerce BI Dashboard](https://github.com/Alan-911/enterprise-agent-framework)** | Enterprise observability UI monitoring live agents, metrics & latency. | ![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react)&nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat&logo=fastapi) |
-| **[Real-Time Task Dashboard](https://github.com/Alan-911/real-time-dashboard)** | Real-time websocket tracking platform pushing instant state via Supabase. | ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=next.js)&nbsp;![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat&logo=supabase) |
-| **[J&P AutoHub](https://github.com/Alan-911/JP-autohub-project)** | AI sales agent + SEO pipeline for auto parts e-commerce (Delaware). | ![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python)&nbsp;![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat&logo=amazonwebservices) |
-| **[EECS Automated Research Nexus](#)** | Auto research milestone detector + Gemini AI blog gen with faculty review routing. | ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat&logo=langchain)&nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat&logo=fastapi) |
-| **[Audio Deepfake Detection](https://github.com/Alan-911/Audio-Deepfake-Detection)** | Academic neural architecture isolating spoofed synthetic voice artifacts. | ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat&logo=pytorch)&nbsp;![Python](https://img.shields.io/badge/Python-0D1117?style=flat&logo=python) |
-| **[Portfolio Site](https://Alan-911.github.io/my-portfolio)** | My personal developer portfolio highlighting my AI/ML engineering journey. | ![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react)&nbsp;![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat&logo=tailwind-css) |
-
----
-
-### 📫 Connect with me
-Open to research collaborations and AI engineering roles. Reach me at [iragena@cua.edu](mailto:iragena@cua.edu) or connect on [LinkedIn](https://www.linkedin.com/in/yves-alain-iragena-91b44b391).
+[![Portfolio](https://img.shields.io/badge/Portfolio-alan--911.github.io-blue)](https://alan-911.github.io/my-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yves--alain--iragena-0077b5)](https://www.linkedin.com/in/yves-alain-iragena-91b44b391)
+[![Email](https://img.shields.io/badge/Email-iragena@cua.edu-red)](mailto:iragena@cua.edu)
