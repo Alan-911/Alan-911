@@ -1,13 +1,12 @@
 # Hi, I'm Yves Alain Iragena 
 
 **Graduate Researcher & AI/ML Engineer** — Multimodal AI Lab, Catholic University of America  
-MS Data Analytics (May 2026) · Washington D.C. 
+MS Data Analytics · Washington D.C. 
 
 ---
 
 ### What I'm Working On
 
-- **DPADD-ES** — Audio deepfake detection via mask-based speech/environment disentanglement. Submitted to **ICME 2026 Grand Challenge (ESDD2)**. Achieved 0.8923 macro-F1 on CompSpoofV2 (250K clips).
 - **Adversarial RAG Security** — Three-layer injection defense stack across Pinecone, FAISS, and Chroma vector databases.
 - **Production agentic systems** — LangGraph-based multi-agent frameworks with Kubernetes deployment.
 
