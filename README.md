@@ -15,8 +15,8 @@ The projects below are ordered by **technical evidence, engineering depth, and r
 | **1. [Cloud-Native Backend Infrastructure](https://github.com/Alan-911/Cloud-Computing)** | Backend, cloud, DevOps and SRE | Python/FastAPI, PostgreSQL, Docker, Kubernetes manifests, Terraform, GitHub Actions, tests and runbooks |
 | **2. [Audio Deepfake Detection — DPADD-ES](https://github.com/Alan-911/Audio-Deepfake-Detection)** | Speech AI research and AI security | PyTorch, Wav2Vec2, component-aware modeling, training/evaluation code and ICME 2026 challenge documentation |
 | **3. [Ticket Agent Guardrails](https://github.com/Alan-911/ticket-agent-guardrails)** | Secure AI-agent workflows | Bedrock AgentCore design, explicit policy boundaries, test cases and security documentation |
-| **4. [AuraCommerce — Agentic Business Intelligence](https://github.com/Alan-911/enterprise-agent-framework)** | Applied agentic AI | Analyst/Sentinel/Reporter workflow, FastAPI service, anomaly evaluation and dashboard integration |
-| **5. [Real-Time Operations Dashboard](https://github.com/Alan-911/real-time-dashboard)** | Full-stack real-time systems | Next.js, TypeScript, Supabase Realtime, database change subscriptions and optimistic UI |
+| **4. [Real-Time Field Operations Dashboard](https://github.com/Alan-911/real-time-dashboard)** | Full-stack real-time systems | Next.js, TypeScript, Supabase Realtime, database subscriptions, optimistic UI and reporting; demonstration data clearly labeled |
+| **5. [AuraCommerce — Business Intelligence Prototype](https://github.com/Alan-911/enterprise-agent-framework)** | Applied agentic AI | Separate Analyst, Sentinel and Reporter modules with a simulated FastAPI/Plotly dashboard; end-to-end agent integration is in progress |
 | **6. [Clinical Comorbidity Dashboard](https://github.com/Alan-911/clinical-comorbidity-dashboard)** | Data science and analytics | FP-Growth pattern mining, pandas, Streamlit dashboard and project report |
 | **7. [Gmail AI Semantic Autopilot](https://github.com/Alan-911/gmail-ai-agent)** | LLM and API integration | Python, Gmail API, Claude-based message classification and dashboard |
 
@@ -26,7 +26,7 @@ The projects below are ordered by **technical evidence, engineering depth, and r
 | --- | --- | --- |
 | Computer vision | [Lane Detection](https://github.com/Alan-911/lane_detection) | OpenCV-based lane extraction and object-oriented image processing |
 | Conversational systems | [WhatsApp AI Agent](https://github.com/Alan-911/whatsapp-ai-agent) | WhatsApp, API integration and AI-assisted business reporting |
-| E-commerce automation | [J&P AutoHub](https://github.com/Alan-911/JP-autohub-project) | Sales/SEO automation prototype |
+| Website rebuild & SEO | [J&P AutoHub](https://github.com/Alan-911/JP-autohub-project) | Automotive e-commerce website improvement, product/category structure, metadata, technical SEO and search visibility planning |
 | Web development | [Portfolio Website](https://github.com/Alan-911/my-portfolio) | Responsive website with GitHub Pages deployment |
 
 ## Engineering toolkit
