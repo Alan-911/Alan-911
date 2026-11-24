@@ -1,41 +1,51 @@
-# Hi, I'm Yves Alain Iragena 
+# Yves Alain Iragena
 
-**Graduate Researcher & AI/ML Engineer** — Multimodal AI Lab, Catholic University of America  
-MS Data Analytics · Washington D.C. 
+**AI/ML Researcher · Backend & Cloud Engineer · AI Systems Developer**  
+Graduate Research Assistant, Multimodal Artificial Intelligence Laboratory (MAIL)  
+M.S. Data Analytics, The Catholic University of America · Washington, DC area
 
----
+I build and study intelligent systems—from speech deepfake detection and constrained AI agents to containerized APIs, cloud infrastructure, and real-time applications. This profile highlights **public repositories with code and documentation**; the project READMEs distinguish implemented features from experiments and planned work.
 
-### What I'm Working On
+## Featured engineering projects
 
-- **Adversarial RAG Security** — Three-layer injection defense stack across Pinecone, FAISS, and Chroma vector databases.
-- **Production agentic systems** — LangGraph-based multi-agent frameworks with Kubernetes deployment.
+The projects below are ordered by **technical evidence, engineering depth, and relevance** to AI/software engineering roles—not stars or repository age.
 
----
+| Project | Engineering focus | Evidence in the repository |
+| --- | --- | --- |
+| **1. [Cloud-Native Backend Infrastructure](https://github.com/Alan-911/Cloud-Computing)** | Backend, cloud, DevOps and SRE | Python/FastAPI, PostgreSQL, Docker, Kubernetes manifests, Terraform, GitHub Actions, tests and runbooks |
+| **2. [Audio Deepfake Detection — DPADD-ES](https://github.com/Alan-911/Audio-Deepfake-Detection)** | Speech AI research and AI security | PyTorch, Wav2Vec2, component-aware modeling, training/evaluation code and ICME 2026 challenge documentation |
+| **3. [Ticket Agent Guardrails](https://github.com/Alan-911/ticket-agent-guardrails)** | Secure AI-agent workflows | Bedrock AgentCore design, explicit policy boundaries, test cases and security documentation |
+| **4. [AuraCommerce — Agentic Business Intelligence](https://github.com/Alan-911/enterprise-agent-framework)** | Applied agentic AI | Analyst/Sentinel/Reporter workflow, FastAPI service, anomaly evaluation and dashboard integration |
+| **5. [Real-Time Operations Dashboard](https://github.com/Alan-911/real-time-dashboard)** | Full-stack real-time systems | Next.js, TypeScript, Supabase Realtime, database change subscriptions and optimistic UI |
+| **6. [Clinical Comorbidity Dashboard](https://github.com/Alan-911/clinical-comorbidity-dashboard)** | Data science and analytics | FP-Growth pattern mining, pandas, Streamlit dashboard and project report |
+| **7. [Gmail AI Semantic Autopilot](https://github.com/Alan-911/gmail-ai-agent)** | LLM and API integration | Python, Gmail API, Claude-based message classification and dashboard |
 
-### Featured Projects
+## Other selected work
 
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| [Audio-Deepfake-Detection](https://github.com/Alan-911/Audio-Deepfake-Detection) | ICME 2026 deepfake audio detection · 0.89 F1 | PyTorch · Wav2Vec2 · BiLSTM |
-| [enterprise-agent-framework](https://github.com/Alan-911/enterprise-agent-framework) | Production multi-agent orchestration | LangGraph · FastAPI · K8s |
-| [gmail-ai-agent](https://github.com/Alan-911/gmail-ai-agent) | Semantic email autopilot · 98% accuracy | Claude API · MCP · React |
-| [real-time-dashboard](https://github.com/Alan-911/real-time-dashboard) | Live analytics · sub-50ms latency | Next.js · WebSockets · Docker |
-| [JP-autohub-project](https://github.com/Alan-911/JP-autohub-project) | E-commerce SEO automation pipeline | LangChain · AWS · PostgreSQL |
+| Area | Project | Focus |
+| --- | --- | --- |
+| Computer vision | [Lane Detection](https://github.com/Alan-911/lane_detection) | OpenCV-based lane extraction and object-oriented image processing |
+| Conversational systems | [WhatsApp AI Agent](https://github.com/Alan-911/whatsapp-ai-agent) | WhatsApp, API integration and AI-assisted business reporting |
+| E-commerce automation | [J&P AutoHub](https://github.com/Alan-911/JP-autohub-project) | Sales/SEO automation prototype |
+| Web development | [Portfolio Website](https://github.com/Alan-911/my-portfolio) | Responsive website with GitHub Pages deployment |
 
----
+## Engineering toolkit
 
-### Skills
+- **AI/ML research:** Python, PyTorch, acoustic modeling, computer vision, model evaluation
+- **AI applications:** LLM APIs, AI agents, retrieval-augmented workflows, structured tool integrations
+- **Backend and data:** FastAPI, REST APIs, SQL, PostgreSQL, SQLite, data pipelines
+- **Frontend:** TypeScript, React, Next.js, Streamlit
+- **Cloud and engineering:** AWS, Docker, Kubernetes, Terraform, Nginx, GitHub Actions, Linux, Git
+- **Engineering practices:** API testing, technical documentation, CI/CD, security-conscious design
 
-**ML/Research:** PyTorch · Wav2Vec2 · BiLSTM · Attention · Scikit-learn  
-**AI Engineering:** LangGraph · LangChain · MCP · RAG · Vector DBs · Claude API  
-**Backend:** Python · FastAPI · Node.js · PostgreSQL  
-**Frontend:** React · Next.js · TypeScript  
-**Infrastructure:** Docker · Kubernetes · AWS · GitHub Actions
+## What I'm exploring
 
----
+- Reliable and secure AI agents, including bounded tool permissions and prompt-injection defenses
+- Speech authenticity and multimodal AI research
+- Cloud-native deployment, observability and maintainable backend systems
 
-### Connect
+## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alan--911.github.io-blue)](https://alan-911.github.io/my-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yves--alain--iragena-0077b5)](https://www.linkedin.com/in/yves-alain-iragena-91b44b391)
-[![Email](https://img.shields.io/badge/Email-iragena@cua.edu-red)](mailto:iragena@cua.edu)
+[Portfolio](https://alan-911.github.io/my-portfolio/) · [LinkedIn](https://www.linkedin.com/in/yves-alain-iragena-91b44b391) · [Email](mailto:iragena@cua.edu)
+
+> **Project evidence note:** Descriptions are based on the public source code and repository documentation. Individual README benchmark or production claims should be considered project-reported unless accompanied by reproducible tests and deployment evidence.
